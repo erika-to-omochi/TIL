@@ -14,7 +14,7 @@
 
 [note（ノート）入学から【3ヶ月】を振り返る｜Erika](https://note.com/komori_erika/n/n141eeb73e97e)
 
-
+***
 ### :strawberry:7/2（82d） 5h/510h:strawberry:
 :rabbit:学習
 - Rails応用2
