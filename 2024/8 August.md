@@ -1,6 +1,17 @@
-[4ヶ月目のnoteを公開しました！](https://note.com/komori_erika/n/nfb0e62227ed9)
+### ★取り組んだこと
+**カリキュラム**
+ 
+**書籍**
+ 
+＜技術系＞
+
+<技術系以外>
 
 
+**振り返り**
+- [note 入学から【4ヶ月】を振り返る](https://note.com/komori_erika/n/nfb0e62227ed9)
+
+***
 ### :strawberry:8/1（112d） 7h/674h:strawberry:
 **🐰今日の学習**
 - [x] paiza 復習 + Cランク3問
