@@ -2,7 +2,9 @@
 - RUNTEQカリキュラム
 - バトラン（Battle of RUNTEQ）で出すアプリの開発
 - 書籍（エラーが怖くなくなる本）
-- [note（ノート）【２ヶ月】振り返り🐰💓｜Erika](https://note.com/komori_erika/n/n7ecb62a06585) 
+- [note（ノート）【２ヶ月】振り返り🐰💓｜Erika](https://note.com/komori_erika/n/n7ecb62a06585)
+ 
+### 1ヶ月の学習時間 216h
 ***
 #### 6/1（51d） 8h/291h
 :cherry_blossom:学習
