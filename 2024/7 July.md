@@ -18,7 +18,7 @@
 
 **振り返り**
 - [note（ノート）入学から【3ヶ月】を振り返る｜Erika](https://note.com/komori_erika/n/n141eeb73e97e)
-
+### 1ヶ月の学習時間 167h
 ***
 ### :strawberry:7/2（82d） 5h/510h:strawberry:
 :rabbit:学習
