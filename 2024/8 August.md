@@ -363,3 +363,16 @@ Foo.bar #=> クラスメソッド内の self:Foo
 foo = Foo.new
 foo.baz #=> インスタンスメソッド内の self:#<Foo:0x00000001007ae5a8>
 ```
+***
+### 🍓8/30（141d） 5h/776h
+**🐰今日の学習**
+- [x] paiza Cランク2問
+- [x] プロを目指す人のためのRuby入門(〜7.7.4)
+- [x] React公式
+ 
+**🐣感想**
+ 
+cherry本、ようやく半分 :face_with_rolling_eyes: 
+クラス完全理解したいいい :fire: 
+Reactは[コンポーネントに props を渡す](https://ja.react.dev/learn/passing-props-to-a-component)を復習！
+わかってきている気がしています！ここからだ！
