@@ -376,3 +376,16 @@ cherry本、ようやく半分 :face_with_rolling_eyes:
 クラス完全理解したいいい :fire: 
 Reactは[コンポーネントに props を渡す](https://ja.react.dev/learn/passing-props-to-a-component)を復習！
 わかってきている気がしています！ここからだ！
+***
+### 🍓8/31（142d） 5h/781h
+**🐰今日の学習**
+- [x] paiza Cランク2問
+- [x] プロを目指す人のためのRuby入門(〜7.7.4)
+- [x] React公式
+- [x] 56期限定 Rails newイベント
+ 
+**🐣感想**
+ 
+Rubyのクラスをマスターしたい！！
+実際にVSコードとターミナルで動かしてみることで理解が深まるし、繰り返し復習が大事ですね！
+Reactはpropsがなんとなくわかってきた気がします！
