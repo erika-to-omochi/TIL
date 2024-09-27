@@ -312,3 +312,49 @@ Top画面を実装し、バックとフロントをそれぞれデプロイ、�
 今後、卒制やるまでに絶対に完成させてまた出します🔥
 https://be-happy-ten.vercel.app/
 ***
+### 🍓9/27（168d） 5h/945h
+**🐰今日の学習**
+- [x] paiza
+- [x] プロを目指す人のためのRuby入門
+- [x] youtube教材
+ 
+**🐣感想**
+  
+paizaのCランクは正解率が80％ないやつは1回じゃ解けません😭
+やはり繰り返し、配列、ハッシュあたりの理解が浅いのが原因ですね。
+```
+# 人数を取得
+N = gets.to_i
+
+# 各人が最初に持っているボールの数をリストで管理
+balls = []
+N.times do
+  balls << gets.to_i
+end
+
+# パス回しの回数を取得
+M = gets.to_i
+
+# パス回しの処理
+M.times do
+  a, b, x = gets.split.map(&:to_i) # a: パスする人, b: 受け取る人, x: パスするボールの数
+  a -= 1 # 0インデックスに合わせる
+  b -= 1 # 0インデックスに合わせる
+  
+  # 実際にパスする個数は、a が持っているボールの数とxの小さい方
+  pass_count = [balls[a], x].min
+  
+  # ボールの数を更新
+  balls[a] -= pass_count
+  balls[b] += pass_count
+end
+
+# 最終的な各人のボールの数を出力
+balls.each do |ball_count|
+  puts ball_count
+end
+```
+これくらいのがさらっとかけて理解できるようになりたいですね〜🔥
+cherry本のモジュール難しいです😭
+今まで何気なく使っていたmapやcountメソッドがEnumerableモジュールで定義されていること、だからEnumerableモジュールである配列やハッシュ、範囲で使えることが理解できました。
+***
