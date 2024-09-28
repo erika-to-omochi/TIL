@@ -358,3 +358,14 @@ end
 cherry本のモジュール難しいです😭
 今まで何気なく使っていたmapやcountメソッドがEnumerableモジュールで定義されていること、だからEnumerableモジュールである配列やハッシュ、範囲で使えることが理解できました。
 ***
+### 🍓9/28（169d） 3h/948h
+**🐰今日やったこと**
+- [x]  paiza
+- [x] [Next.jsとRuby on Railsを使ってフルスタックブログ開発を体験してみよう](https://www.youtube.com/watch?v=XQtkP8it9Ag&t=501s)
+ 
+**🐣感想**
+ 
+今日はMVCモデルについて再度学びました。
+恋愛妄想癖があるので、MVCモデルを恋愛ストーリー仕立てにしてみました💖
+そこで、[RUNTEQの先輩のアプリ](https://www.miniita.com/articles/148)に投稿させてもらいました😊
+***
