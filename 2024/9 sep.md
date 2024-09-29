@@ -369,3 +369,15 @@ cherry本のモジュール難しいです😭
 恋愛妄想癖があるので、MVCモデルを恋愛ストーリー仕立てにしてみました💖
 そこで、[RUNTEQの先輩のアプリ](https://www.miniita.com/articles/148)に投稿させてもらいました😊
 ***
+### 🍓9/29（170d） 7h/955h
+**🐰今日やったこと**
+- [x]  paiza
+- [x] プロを目指す人のためのRuby入門
+- [x] [Next.jsとRuby on Railsを使ってフルスタックブログ開発を体験してみよう](https://www.youtube.com/watch?v=XQtkP8it9Ag&t=501s)
+ 
+**🐣感想**
+ 
+- paiza：each文の中でHashを使うのが理解できなかったが、理解できない原因がようやくわかった。どのタイミングでどのデータが格納されていくのか、イメージがつかなかったからだ。その後、実際にデータが渡るタイミングや、動きが掴めて、ようやく譜に落ちた。
+- cherry本：moduleのEnumerableとcomparableについて学んだ。当たり前のように map / select / find / countなど使っていたが、配列やハッシュ、範囲などの繰り返し処理ができるクラスにincludeされているモジュールで使えることがわかった。
+- youtube：Railsの復習も兼ねて学習。form_withは今まで当たり前のように使っていたが、開発者ツールで見ると、htmlで、<form>タグが生成されているがわかった。method属性の値が引数なしだと、postに設定され、action属性の値が現在のページに設定されていることを確認した。👈️[参考](https://railsguides.jp/form_helpers.html)
+***
