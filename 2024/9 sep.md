@@ -381,3 +381,14 @@ cherry本のモジュール難しいです😭
 - cherry本：moduleのEnumerableとcomparableについて学んだ。当たり前のように map / select / find / countなど使っていたが、配列やハッシュ、範囲などの繰り返し処理ができるクラスにincludeされているモジュールで使えることがわかった。
 - youtube：Railsの復習も兼ねて学習。form_withは今まで当たり前のように使っていたが、開発者ツールで見ると、htmlで、<form>タグが生成されているがわかった。method属性の値が引数なしだと、postに設定され、action属性の値が現在のページに設定されていることを確認した。👈️[参考](https://railsguides.jp/form_helpers.html)
 ***
+### 🍓9/30（171d） 2h/957h
+**🐰今日やったこと**
+- [x]  paiza
+- [x] [【Ruby on Rails入門】初心者OK！掲示板アプリを作りながら学ぶRuby on Rails入門](https://www.youtube.com/watch?v=CfdRXSrwLDo)
+- [x] SOFT SKILLS
+ 
+**🐣感想**
+ 
+[【Ruby on Rails入門】初心者OK！掲示板アプリを作りながら学ぶRuby on Rails入門](https://www.youtube.com/watch?v=CfdRXSrwLDo)では、Dockerなしで環境構築から簡単な投稿アプリを作成。良い復習になりました。
+MVCモデルの理解が深まるとともに、CRUDの意味、使い方、コントローラーの書き方もわかってきました😊
+***
