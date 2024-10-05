@@ -53,3 +53,14 @@ C098、今日は解けて、C155も1回で解けました✨
 Railsガイド、mdn、Qiita記事、chatGPTなどで調べながら、Good Noteにメモ。なんとなくイメージ掴めました！
 もう少し落とし込めたら、アウトプットのためにも記事書いてみようかと思います！
 ***
+### 🍓10/3（174d） 6h/984h
+**🐰今日やったこと**
+- [x]  paiza C098, C155
+- [x] プロを目指す人のためのRuby入門(第12章)
+- [x] fetchについて調べる
+
+参考：
+
+- [vscode-rdbg(debug.gem)でのRubyデバッグが便利すぎる](https://blog.shibayu36.org/entry/2023/02/09/195055)
+- [printデバッグにさようなら！Ruby初心者のためのByebugチュートリアル](https://qiita.com/jnchito/items/5aaf323ab4f24b526a61)
+***
