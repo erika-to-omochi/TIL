@@ -64,3 +64,13 @@ Railsガイド、mdn、Qiita記事、chatGPTなどで調べながら、Good Note
 - [vscode-rdbg(debug.gem)でのRubyデバッグが便利すぎる](https://blog.shibayu36.org/entry/2023/02/09/195055)
 - [printデバッグにさようなら！Ruby初心者のためのByebugチュートリアル](https://qiita.com/jnchito/items/5aaf323ab4f24b526a61)
 ***
+### 🍓10/6（177d） 1h/991h
+***
+**🐰今日やったこと**
+- [x]  paiza C146（途中）
+
+**🐣感想**
+
+今日は私用のため朝一でPaizaを解いたのみでした💦
+Rubyのリファレンスマニュアル見たり、類似のメソッドを調べました！
+***
