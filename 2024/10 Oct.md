@@ -65,7 +65,6 @@ Railsガイド、mdn、Qiita記事、chatGPTなどで調べながら、Good Note
 - [printデバッグにさようなら！Ruby初心者のためのByebugチュートリアル](https://qiita.com/jnchito/items/5aaf323ab4f24b526a61)
 ***
 ### 🍓10/6（177d） 1h/991h
-***
 **🐰今日やったこと**
 - [x]  paiza C146（途中）
 
@@ -73,4 +72,15 @@ Railsガイド、mdn、Qiita記事、chatGPTなどで調べながら、Good Note
 
 今日は私用のため朝一でPaizaを解いたのみでした💦
 Rubyのリファレンスマニュアル見たり、類似のメソッドを調べました！
+***
+### 🍓10/7（178d） 6h/997h
+**🐰今日やったこと**
+- [x]  paiza C146, B138
+- [x] [Git : もう怖くないGit！チーム開発で必要なGitを完全マスター](https://www.udemy.com/course/unscared_git/) (Udemy)
+- [x] 【前編】Git Boot Camp【RUNTEQ定期勉強会】(RUNTEQのyoutubeアーカイブ)
+
+**🐣感想**
+
+Gitについて学習。特に深いことは考えず、git add / git commit を一連の流れで行っていましたが、そもそもGitとは何かから学ぶと、コマンドの意味も理解できて良かったです。
+Udemyはまだ5時間分くらい、GitBootCampも後編があるので、ミニアプリをいじりながら毎日進めていこうと思います。
 ***
