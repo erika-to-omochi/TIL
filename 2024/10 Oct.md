@@ -183,5 +183,38 @@ GitHub Actionsでやりたいこと（GitHub Actionsを使って、サブモジ�
 やはりバックエンド絡むと今の私には至難の業…
 そしてその後、レンダリング関係だと思われるが、リロードしないとうまくいかないところがでてきて、現在対応中です。
 今日もログインは認証やらず…（笑）明日こそやりたい…！
-***
+### 🍓10/17（118d） 7h/1050h
+**🐰今日やったこと**
+- [x] ミニアプリ作成
 
+**🐣感想**
+
+今日はリロード問題を解決しました✨
+コンソールでたくさんデバックを仕込んだところ、「Transformed content: undefined」
+ってなってて、データの構造が正しく解釈されていないことが原因のようでした！
+理解が不十分すぎるのは否めませんが、ひとまず解決！
+***
+### 🍓10/18（119d） 8h/1058h
+**🐰今日やったこと**
+- [x] ミニアプリ作成
+[devise](https://github.com/heartcombo/devise) / [devise-jwt](https://github.com/waiting-for-dev/devise-jwt) / [OmniAuth](https://github.com/omniauth/omniauth)
+
+**🐣感想**
+
+[devise](https://github.com/heartcombo/devise)のREADMEを一読してからdeviceの導入。
+rails generate devise Userとするだけで
+```
+      invoke  active_record
+      create  db/migrate/20241018002622_devise_create_users.rb
+      create  app/models/user.rb
+      invoke  test_unit
+      create  test/models/user_test.rb
+      create  test/fixtures/users.yml
+      insert  app/models/user.rb
+       route  devise_for :users
+
+```
+モデルが作成され (存在しない場合)、デフォルトの Devise モジュールで構成されている。
+そしてちゃんREADME読むと、ヘルパーもしっかり書いてある。以前Sorcery使ったときは読んでもさっぱりわかりませんでしたが、少しずつわかるようになってきている気がします（といってもまだ全体の1,2割しか理解できていないですが）😊
+最近思うけど、Gemってすごいですよね！あれって作ったら報酬とかもらえるのか？
+***
